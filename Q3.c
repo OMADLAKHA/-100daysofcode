@@ -16,7 +16,7 @@ Area=21, Perimeter=20
 
 #include<stdio.h>
 
-void main(){
+voi main(){
     int l,b;
     printf("Enter length: ");
     scanf("%d",&l);
