@@ -16,7 +16,7 @@ Sum=10, Diff=4, Product=21, Quotient=2
 #include<stdio.h>
 void main() {
   int a, b;
-  printf("Enter two number: ");
+  printf("Enter two numbers: ");
   scanf("%d %d", &a, &b);
   int sum = a + b;
   int diff = a - b;
