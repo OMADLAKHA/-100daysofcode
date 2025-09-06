@@ -16,7 +16,7 @@ After swap: 14 7
 
 # include <stdio.h>
 
-void main(){
+ 
     int a,b;
     printf("Enter first number: ");
     scanf("%d",&a);
