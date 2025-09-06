@@ -17,7 +17,7 @@ Fahrenheit=212
 
 #include <stdio.h>
 
-void main(){
+vod main(){
     float temperature_in_celsius;
     printf("Enter the temperature in celsius: ");
     scanf("%f",&temperature_in_celsius);
