@@ -15,7 +15,7 @@ Sum=55
 
 # include <stdio.h>
 
-main(){
+void main(){
     int num,sum=0;
     printf("Enter any number: ");
     scanf("%d",&num);
