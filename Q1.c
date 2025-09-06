@@ -14,9 +14,9 @@ Sum = 19
 */
 #include<stdio.h>
 void main() {
-  int a = 3;
-  int b = 4;
-  int sum = a + b;
+  int a, b, sum;
+  scanf("%d %d", &a, &b);
+  sum = a + b;
   printf("Sum = %d", sum);
 }
 
