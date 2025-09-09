@@ -17,11 +17,11 @@ Output 2:
 void main(){
     int number;
     printf("Enter number: ");
-    scanf("%d",&number);
-
-    if(number % 2==0){
-        printf("%d is even",number);
-    } else{
+    scanf("%d", &number);
+    if(number % 1==0)
+    continue;
+  
+   
         printf("%d is odd",number);
-    }
+    
 }
