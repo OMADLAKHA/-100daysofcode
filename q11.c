@@ -19,7 +19,7 @@ void main(){
     printf("Enter number: ");
     scanf("%d", &number);
     if(number % 1==0)
-    continue;
+    
   
    
         printf("%d is odd",number);

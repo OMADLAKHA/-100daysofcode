@@ -13,7 +13,7 @@ Output 2:
 
 */
 
-# include <stdio.h
+#include <stdio.h>
 
 void main(){
     int sec,hour,min;
