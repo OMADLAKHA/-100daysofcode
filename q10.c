@@ -24,4 +24,4 @@ void main(){
     sec=sec % 60;
 
     printf("%d:%d:%d",hour, min, sec);
-}
+
