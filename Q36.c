@@ -23,5 +23,5 @@ int main()
             gcd=i;
     }
     printf("GCD is %d",gcd);
-    return 0;
+    return 0
 }
