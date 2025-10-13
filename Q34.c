@@ -31,5 +31,5 @@ int main()
         printf("Prime");
     else
         printf("Not prime");
-    return 0;
+    return 0
 }
