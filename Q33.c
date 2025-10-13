@@ -35,5 +35,5 @@ int main()
         printf("Armstrong");
     else
         printf("Not Armstrong");
-    return 0
+    return 0;
 }
