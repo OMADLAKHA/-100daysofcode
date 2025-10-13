@@ -29,5 +29,5 @@ int main()
         }
         max++;
     }
-    return 0;
+    return 0
 }
