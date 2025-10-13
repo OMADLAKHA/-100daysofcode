@@ -1,11 +1,26 @@
-#include<stdio.h>
-#include<string.h>
+/*Q29: Write a program to calculate the factorial of a number.
+Sample Test Cases:
+Input 1:
+5
+Output 1:
+120
 
-int main() {
-    char str[]="Hello world !";
-  
-    fgets(str,100,stdin);
-    printf("%s", str);
+Input 2:
+3
+Output 2:
+6
+
+*/
+#include<stdio.h>
+int main()
+{
+    int n,i;
+    unsigned long long fact=1;
+    scanf("%d",&n);
+    for(i=1;i<=n;i++)
+    {
+        fact=fact*i;
+    }
+    printf("%llu",fact);
     return 0;
-  
 }
