@@ -18,5 +18,5 @@ int main(){
     scanf("%d",&n);
     for (int i = 0; i < MAX; i++) memo[i] = 0;
     printf("%d\n", fib(n));
-    return 0
+    return 0;
 }
